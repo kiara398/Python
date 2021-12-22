@@ -12,10 +12,10 @@ while Trials != 0:
         myChoice = input("d: Deposit or w: Withdraw: ")
         if myChoice == "d":
             myDeposit = input(" Enter The Amount You Would like to Deposit: ")
-            print(myDeposit, " have been deposited into your account")
+            print(myDeposit, " has been deposited into your account")
         if myChoice == "w":
             myWithdraw = input(" Enter The Amount You Would like to Withdraw: ")
-            print(myWithdraw, "have been withdrawn into your account")
+            print(myWithdraw, "has been withdrawn from your account")
     myExit = input(" Would You like to continue? Y/N: ")
     if myExit == "N":
         print("Thank you for using WinnieFred Bank")
