@@ -20,7 +20,7 @@ print(nissan == toyota)
 
 # defining a class with properties, attributes or characters
 # in python , defining properties or structures of a an object we use __int__() method
-# RULE, self is the firest attribute of an object
+# RULE, self is the first attribute of an object
 # self - keyword used to identify properties of a class 
 # name , color, model nd prices are parameters to be assigned to the propertiesof the class
 # init - intialising
