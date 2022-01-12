@@ -1,4 +1,3 @@
-
 import pandas as pd
 # creating a serie
 # myList = [10,20,30,40,50,60, 70, 80, 90]
@@ -34,7 +33,6 @@ weights = pd.Series([60, 70, 90, 40], index = ["winnie", "mark", "collines", "Fr
 df_person = pd.DataFrame({"Heights":heights, "Weights": weights})
 print("The personal details are: \n", df_person)
 
-=======
 # list is identified by square brackets []
 # tuple is identified by parentheses ()
 # dictionary is identified by curly braces {}
